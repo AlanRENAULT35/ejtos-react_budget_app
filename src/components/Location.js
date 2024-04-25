@@ -14,7 +14,7 @@ const Location = () => {
         { value: '£', label: 'Uk(£)' },
         { value: '₹', label: 'India(₹)' },
         { value: '€', label: 'Europe(€)' },
-        { value: 'CAD', label: 'Canada(CAD)' }
+        { value: '$', label: 'US($)' }
 
     ];
     const customStyle = {
